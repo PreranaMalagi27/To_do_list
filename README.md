@@ -7,13 +7,13 @@ JavaScript is used for the logic which is used to add, delete or cancel the task
 "This To-do-list enables the user to add a task, delete a task and cancel the completed task. "
 
 This is how my To-do-list looks like: 
-(https://user-images.githubusercontent.com/115856559/213107798-f9a781ae-eae0-43ab-809b-3df9781e1b8d.png)
+(https://user-images.githubusercontent.com/115856559/213109965-5c2515b2-b9dc-488b-9e15-7053a327192e.png)
 
 Adding the task_result : 
-(https://user-images.githubusercontent.com/115856559/213107893-8bdcf0f8-5d52-4944-9aa9-22778085c863.png)
+(https://user-images.githubusercontent.com/115856559/213109954-7b751d99-b992-4135-b7b0-5007599070b1.png)
 
 Cancelling the task_result : 
-(https://user-images.githubusercontent.com/115856559/213107978-262fed5a-bd75-4e1b-aead-aa843c8d4687.png)
+(https://user-images.githubusercontent.com/115856559/213109944-453b435c-196d-4fc4-8d53-43005e631346.png)
 
 Deleting the task_result :
-(https://user-images.githubusercontent.com/115856559/213108094-f4dfb4da-d1c0-421a-a934-4c752e691612.png)
+(https://user-images.githubusercontent.com/115856559/213109941-758bf47b-e207-477d-958b-8b299482445c.png)
